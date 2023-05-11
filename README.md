@@ -1,4 +1,4 @@
-## READ ME
+## README
 
 this todomanager is hosted [here](https://frontend-taskmanager-vite.onrender.com/)
 ---
